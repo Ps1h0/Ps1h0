@@ -40,4 +40,4 @@
 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ps1h0)(https://github.com/Ps1h0/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ps1h0)
