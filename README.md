@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/nktpltnv" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Master student in software engineering at ITMO University, Java developer from Russia 🇷🇺</h3>
+<h3 align="center">Master student in software engineering at ITMO University, Java developer from Russia</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
