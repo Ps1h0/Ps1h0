@@ -45,4 +45,4 @@
 
 
 
-![Metrics](/github-metrics.svg)
+![Full-year calendar](/github-metrics.svg)
